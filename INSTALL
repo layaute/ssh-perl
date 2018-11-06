@@ -1,0 +1,9 @@
+apt-get install build-essential
+apt-get libexpect-simple-perl
+apt-get libexpect-perl
+
+perl -MCPAN -e shell
+cpan> m /Expect/
+cpan> install Expect
+      install Net::SSH::Perl
+      install Net::SSH::Expect
