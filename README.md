@@ -1,5 +1,4 @@
 # ssh-perl
-execute a batch of commands on a list of IPs
 NAME
        ssh-perl - execute a batch of commands on a list of IPs
        The script generates a result file for each IP containing the output of the executed commands
